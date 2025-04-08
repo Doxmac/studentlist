@@ -1,0 +1,17 @@
+{
+  "name": "exercise_6",
+  "version": "1.0.0",
+  "description": "This project consists of a simple **student registration form** with a **backend API**.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node backend/server.js",
+    "dev": "nodemon backend/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "exercise_6": "file:"
+  }
+}
